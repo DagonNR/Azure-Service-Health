@@ -1,7 +1,7 @@
 # Uso de Azure Service Health
 En este repositorio tenemos una demostración del uso de Azure Service Health, como activarlo, y para que nos puede servir.
 
-![Microsoft-Azure-Service-Health](images\Microsoft-Azure-Service-Health.png)
+![Microsoft-Azure-Service-Health](https://github.com/DagonNR/Azure-Service-Health/blob/main/images/Microsoft-Azure-Service-Health.png)
 
 ---
 
